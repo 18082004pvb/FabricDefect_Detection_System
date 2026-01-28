@@ -7,6 +7,8 @@ Please download the model from:
 
 ## Demo Video
 
+[Fabric Defect Detection Demo](demo/Screenshot 2026-01-29 054438.png)
+
 Click the image below to watch the demo video (30 seconds):
 
 [![Watch Demo](https://img.shields.io/badge/Click%20to%20Watch-Demo%20Video-blue?style=for-the-badge)](demo/videotest.mp4)
