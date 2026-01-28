@@ -7,9 +7,9 @@ Please download the model from:
 
 ## Demo Video
 
-Watch the full 30-second demo here:
+Click the image below to watch the demo video (30 seconds):
 
-[Watch Demo Video](https://drive.google.com/file/d/138Z28BjqPZxfTUSFltlhvG-kCyVeisNS/view?usp=drive_link)
+[![Watch Demo](https://img.shields.io/badge/Click%20to%20Watch-Demo%20Video-blue?style=for-the-badge)](demo/videotest.mp4)
 
 # Fabric Defect Detection System using YOLO and PySide6
 
