@@ -300,7 +300,7 @@ class MainWindow(QWidget):
         for name in self.model_paths.keys():
             self.model_select.addItem(name)
 
-        self.current_model_name = "Model best20112025"
+        self.current_model_name = "Model Modelgreen10122025"
         self.current_model = self.models[self.current_model_name]
         self.model_label.setText(f"Model đang chọn: {self.current_model_name}")
 
