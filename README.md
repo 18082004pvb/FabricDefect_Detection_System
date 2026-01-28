@@ -7,7 +7,7 @@ Please download the model from:
 
 ## Demo Video
 
-![Fabric Defect Detection Demo](demo/Screenshot 2026-01-29 054438.png)
+![Fabric Defect Detection Demo](demo/demoimage)
 
 Click the image below to watch the demo video (30 seconds):
 
