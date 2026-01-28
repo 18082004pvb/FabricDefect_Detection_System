@@ -5,6 +5,11 @@ Due to GitHub file size limits, the trained YOLO model is not included.
 Please download the model from:
 [https://drive.google.com/drive/folders/1KQzKqbMz65ROShZwqtHyjwVdYM8ojRqM?usp=drive_link]
 
+## Demo Video
+
+Watch the full 30-second demo here:
+
+[Watch Demo Video](https://drive.google.com/file/d/138Z28BjqPZxfTUSFltlhvG-kCyVeisNS/view?usp=drive_link)
 
 # Fabric Defect Detection System using YOLO and PySide6
 
@@ -55,7 +60,7 @@ from PySide6.QtWidgets import *
 from PySide6.QtGui import *
 from PySide6.QtCore import *
 from ultralytics import YOLO
-
-
 import torch
+
+
 
