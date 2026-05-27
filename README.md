@@ -35,15 +35,15 @@ Click the thumbnail below to watch the demo video:
 
 ### Demo Image 1
 
-[View Demo Image 1](https://drive.google.com/file/d/12ZU6TDz3WOn02It5FFSOhTxHS14AOTiZ/view?usp=drive_link)
+<img src="demo/ImageTrain1.jpg" alt="Demo Image 1" width="800">
 
 ### Demo Image 2
 
-[View Demo Image 2](https://drive.google.com/file/d/1AtO0jh5KtUCrlxNhB4kC4-IQbeGG8nOB/view?usp=drive_link)
+<img src="demo/ImageTrain2.jpg" alt="Demo Image 2" width="800">
 
 ### Demo Image 3
 
-[View Demo Image 3](https://drive.google.com/file/d/1VjtPW_tiTHaEzKbwsiFJ70-WNqsgRYX6/view?usp=drive_link)
+<img src="demo/ImageTrain3.jpg" alt="Demo Image 3" width="800">
 
 ---
 
