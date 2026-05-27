@@ -31,19 +31,27 @@ Click the thumbnail below to watch the demo video:
 
 ---
 
-## Demo Images
+## Images Train
 
-### Demo Image 1
-
-<img src="demo/ImageTrain1.jpg" alt="Demo Image 1" width="800">
-
-### Demo Image 2
-
-<img src="demo/ImageTrain2.jpg" alt="Demo Image 2" width="800">
-
-### Demo Image 3
-
-<img src="demo/ImageTrain3.jpg" alt="Demo Image 3" width="800">
+<table>
+  <tr>
+    <td align="center">
+      <img src="demo/ImageTrain1.jpg" alt="Demo Image 1" width="260">
+      <br>
+      <b>Demo Image 1</b>
+    </td>
+    <td align="center">
+      <img src="demo/ImageTrain2.jpg" alt="Demo Image 2" width="260">
+      <br>
+      <b>Demo Image 2</b>
+    </td>
+    <td align="center">
+      <img src="demo/ImageTrain3.jpg" alt="Demo Image 3" width="260">
+      <br>
+      <b>Demo Image 3</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
